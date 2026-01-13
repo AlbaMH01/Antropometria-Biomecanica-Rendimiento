@@ -1,11 +1,15 @@
 # Antropometria-Biomecanica-Rendimiento
 
 🎯OBJETIVO
+
 Optimizar el rendimiento a través de ajustes biomecánicos adaptados a las características antropométricas de los atletas.
+
 
 📚VARIABLES
 
-🧍‍♂️Antropométricas
+
+🧍‍♂️**Antropométricas**
+
 
 Altura: medido en cm.
 
@@ -23,7 +27,9 @@ Ancho de la pelvis: cm desde la espina ilíaca anterosuperior derecha a la izqui
 
 Ángulo Q: alineación de la pierna desde la espina ilíaca anterosuperior de la pelvis hasta la rodilla (línea desde la cadera a la rodilla).
 
-🏃‍♂️‍➡️Biomecánicas
+
+🏃‍♂️‍➡️**Biomecánicas**
+
 
 Longitud de zancada: cm entre el último apoyo con un pie y el próximo apoyo con ese mismo pie.
 
@@ -39,7 +45,9 @@ Tiempo de contacto con el suelo: milisegundos que está el pie en contacto con e
 
 Tiempo de vuelo: milisegundos que se está en el aire.
 
-🥇Rendimiento
+
+🥇**Rendimiento**
+
 
 Tiempos en las series: medidos en minutos y segundos.
 
